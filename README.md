@@ -81,7 +81,7 @@ Software:
 #	 References
 
 
-1-	https://www.theodinproject.com
+1-	The Odin Project
 
 2-	YouTube
 
