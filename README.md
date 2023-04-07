@@ -28,7 +28,7 @@ This project provides a solution for most mobile stores, through which the buyin
 
 1-	Inventory management system
 
-2-	 2- Counting and calculating buying and selling operations
+2- Counting and calculating buying and selling operations
 
 
 #	Objectives of the project
