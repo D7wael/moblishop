@@ -1,7 +1,7 @@
 # Project title :
 mobile shop application 
 
-#	Student(s) Name(s) and Major
+#	Students Names
 
 1- Ali Abu Talib Qaisi
 
