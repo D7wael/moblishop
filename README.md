@@ -21,7 +21,7 @@ Dr. Khaled Al-Yousif
 College of Communication and Information in Riyadh
 
 
-#	Background and motivation of the project (Project Problem):
+#	Background and motivation of the project:
 
 
 This project provides a solution for most mobile stores, through which the buying and selling processes for mobile stores and store management are automated, which saves the stores effort and time, and through it the following are provided:
@@ -51,7 +51,7 @@ An accounting system (inventory) that does the following:
 7- A report on future operations by means of previous information AI
 
 
-#	Expected results of the project (Final Product)
+#	Expected results of the project:
 
 
 An integrated system for the store through which buying and selling operations, future analyzes of buying and selling, knowledge of capital, cost and profit percentage are known.
