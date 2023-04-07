@@ -1,5 +1,5 @@
 # Project title 
-mobile shop application 
+Mobile Shop Application 
 
 #	Students Names
 
@@ -81,7 +81,7 @@ Software:
 #	 References
 
 
-1-	https://www.theodinproject.com/
+1-	https://www.theodinproject.com
 
 2-	YouTube
 
