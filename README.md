@@ -31,7 +31,7 @@ This project provides a solution for most mobile stores, through which the buyin
 2- Counting and calculating buying and selling operations
 
 
-#	Objectives of the project
+#	Objectives of the projects
 
 
 An accounting system (inventory) that does the following:
