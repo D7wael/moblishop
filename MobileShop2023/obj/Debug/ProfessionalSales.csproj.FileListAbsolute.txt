@@ -1,0 +1,371 @@
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Seller.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SellerShow.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Companies.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Form_StockShow1.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_picture.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Orders.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrdersShow.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Sales.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrderCancel.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesQuantity.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerRejectShow.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject_Quantity.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockReject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKzero.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKCharge.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKminimum.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_AllReject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_NO.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_Yes.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ContinueTest.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update1.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT_show.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Burchases.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BurchasesSHOW.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportALLsales.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportBurchases.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportReject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales1.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.RejectNAME.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Burchases.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BurchasesSHOW.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Companies.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ContinueTest.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerRejectShow.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject_Quantity.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Form_StockShow1.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrderCancel.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Orders.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrdersShow.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_picture.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportALLsales.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportBurchases.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportReject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales1.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update1.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT_show.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Sales.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesQuantity.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Seller.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SellerShow.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKCharge.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKminimum.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKzero.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_AllReject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_NO.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_Yes.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockReject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.RejectNAME.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+C:\Users\mic\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+G:\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+G:\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+G:\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csprojResolveAssemblyReference.cache
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Burchases.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BurchasesSHOW.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Companies.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ContinueTest.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerRejectShow.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject_Quantity.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Form_StockShow1.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrderCancel.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Orders.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrdersShow.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_picture.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportALLsales.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportBurchases.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportReject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales1.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update1.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT_show.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Sales.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesQuantity.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Seller.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SellerShow.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKCharge.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKminimum.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKzero.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_AllReject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_NO.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_Yes.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockReject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.RejectNAME.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+D:\البرامج\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csprojResolveAssemblyReference.cache
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Burchases.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BurchasesSHOW.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Companies.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ContinueTest.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerRejectShow.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject_Quantity.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Form_StockShow1.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrderCancel.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Orders.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrdersShow.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_picture.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportALLsales.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportBurchases.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportReject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales1.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update1.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT_show.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Sales.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesQuantity.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Seller.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SellerShow.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKCharge.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKminimum.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKzero.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_AllReject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_NO.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_Yes.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockReject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.RejectNAME.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+C:\Users\QAYSI\Desktop\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csprojResolveAssemblyReference.cache
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Burchases.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BurchasesSHOW.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Companies.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ContinueTest.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerRejectShow.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_CustomerReject_Quantity.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Form_StockShow1.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrderCancel.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Orders.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_OrdersShow.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_picture.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportALLsales.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportBurchases.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportReject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales1.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleQNT_Update1.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SaleREJECT_show.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Sales.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesQuantity.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Seller.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SellerShow.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKCharge.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKminimum.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STKzero.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_AllReject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_NO.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_STK_Yes.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockReject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.RejectNAME.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+C:\Users\mic\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\QAYSI\Desktop\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csprojResolveAssemblyReference.cache
+D:\البرامج\PROGRAMMING\برامجي الخاصة\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+D:\البرامج\PROGRAMMING\برامجي الخاصة\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+D:\البرامج\PROGRAMMING\برامجي الخاصة\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\المسوق المحترف\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\المسوق المحترف\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_login.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.Frm_Priv_user.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Login.frm_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.About.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.ButtonsNames.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Add_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_BACKUP_Restor.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Main.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_ReportSales2.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_SalesShow.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_Stock.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockRejectSHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.PL.Form_StockShow.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.Properties.Resources.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.All_Reject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Burchases.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Form_STK_AllReject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Order.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.REJECT.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectFull.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.RejectName.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sales.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sale_Yes_NO.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Sellers.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.REP.Stocks.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.csproj.GenerateResource.Cache
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري السعودي\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ProfessionalSales\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ProfessionalSales\ProfessionalSales\obj\Debug\ProfessionalSales.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ProfessionalSales\bin\Debug\ProfessionalSales.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ProfessionalSales\obj\Debug\ProfessionalSales.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ProfessionalSales\obj\Debug\ProfessionalSales.pdb

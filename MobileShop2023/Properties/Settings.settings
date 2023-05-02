@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MobileShop2023.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SERVERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DATABASENAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MobileShop</Value>
+    </Setting>
+    <Setting Name="DATABASESUSERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DATABASEPASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="CHECKSHOW" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

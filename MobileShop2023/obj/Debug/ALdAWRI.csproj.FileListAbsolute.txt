@@ -1,0 +1,67 @@
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ProfessionalSales\bin\Debug\ALdAWRI.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.Frm_login.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.Frm_Priv_user.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.frm_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.About.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.ButtonsNames.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Add_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_BACKUP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_BACKUP_Restor.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Main.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Properties.Resources.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.All_Reject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Burchases.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Form_STK_AllReject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Order.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.REJECT.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.RejectFull.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.RejectName.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sales.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sale_Yes_NO.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sellers.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Stocks.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.csproj.GenerateResource.Cache
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teame.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teams_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teams_Mofify.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_ExpectedResults.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.csprojResolveAssemblyReference.cache
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.exe.config
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.exe
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.pdb
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.exe
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\bin\Debug\ALdAWRI.pdb
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.Frm_login.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.Frm_Priv_user.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Login.frm_Users.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.About.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.ButtonsNames.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Add_Users.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_BACKUP.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_BACKUP_Restor.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_ExpectedResults.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Main.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teams_Mofify.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teams_Show.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.PL.Form_Teame.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.Properties.Resources.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.All_Reject.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Burchases.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Form_STK_AllReject.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Order.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.REJECT.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.RejectFull.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.RejectName.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sales.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sale_Yes_NO.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Sellers.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.REP.Stocks.resources
+D:\البرامج\الدوري\ALdAWRI\ALdAWRI\obj\Debug\ALdAWRI.csproj.GenerateResource.Cache
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ALdAWRI\bin\Debug\ALdAWRI.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ALdAWRI\obj\Debug\ALdAWRI.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ALdAWRI\obj\Debug\ALdAWRI.pdb

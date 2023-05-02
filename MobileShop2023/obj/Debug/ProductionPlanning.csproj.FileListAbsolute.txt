@@ -1,0 +1,534 @@
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ALdAWRI\bin\Debug\ProductionPlanning.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csprojResolveAssemblyReference.cache
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_login.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_Priv_user.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.frm_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.About.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.ButtonsNames.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Add_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP_Restor.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExpectedResults.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Main.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Teams_Mofify.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Teams_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Teame.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Properties.Resources.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.All_Reject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Burchases.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Form_STK_AllReject.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Order.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.REJECT.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RejectFull.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RejectName.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Sales.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Sale_Yes_NO.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Sellers.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Stocks.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csproj.GenerateResource.Cache
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_login.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_Priv_user.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.frm_Users.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.About.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.ButtonsNames.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Add_Users.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP_Restor.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_MAX.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Zero.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_MaterialType.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials__Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials_Charge.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Modify.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_StorageLocations.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Units.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Main.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Mofify.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Warehouses.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Properties.Resources.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csproj.GenerateResource.Cache
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_login.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_Priv_user.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.frm_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.About.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.ButtonsNames.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Add_Users.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP_Restor.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_MAX.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Zero.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_MaterialType.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials__Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials_Charge.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Modify.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_StorageLocations.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Units.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Main.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Mofify.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Warehouses.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Properties.Resources.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csproj.GenerateResource.Cache
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.pdb
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Machn.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Magazine.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProductionPlanning.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production25.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Machn.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Magazine.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production25.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProductionPlanning.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph25.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production30.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph30.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph25.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph30.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production30.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsAmmuntions.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsAmmuntions.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeAmmuntions.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsToLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeToLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Damages.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Damages.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsToLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeAmmuntions.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeToLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show1.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils2.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProdLinesMATR.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_All_Locks.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789_Show.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_25MM.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_30MM.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan25MM.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan30MM.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_All_Locks.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_25MM.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789_Show.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_30MM.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan25MM.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan30MM.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show1.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils2.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProdLinesMATR.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M792_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M793SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M788_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M789_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_Logistics_ToLAP_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAP_ToLogistics_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_OGSTtoLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LGSTtoLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LAPtoRANGE.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_RANGEtoLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M788.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M789.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M788.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M789.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M788.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M789.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M788.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M789.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_Plans.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_Modify.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_OGSTtoLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LAPtoRANGE.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LGSTtoLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_RANGEtoLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_Plans.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M788.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M789.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M788.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M789.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M788.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M789.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M788.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M789.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAP_ToLogistics_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_Logistics_ToLAP_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M792_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M793SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M788_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M789_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_Modify.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_Planning.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_Image.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_HEI.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792HEI.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP_SHOW.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm789HEDP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M789HEDP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_PROD.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M791.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M793.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792HEI.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M789HEDP.resources
+C:\Users\qaysi\OneDrive\سطح المكتب\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Planning_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_PROD.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Planning_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M789HEDP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792HEI.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_Image.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm789HEDP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_HEI.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M789HEDP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792HEI.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_Planning.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M791.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M789HEDP.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792HEI.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M793.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csprojResolveAssemblyReference.cache
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M791_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M789HEDP_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792HEI_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792_SHOW.resources
+C:\Users\mic\Desktop\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M793_SHOW.resources
+D:\PROG\برمجة\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+D:\PROG\برمجة\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+D:\PROG\برمجة\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.pdb
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_All_Locks.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_OGSTtoLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LAPtoRANGE.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_LGSTtoLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_ALL_Lock_RANGEtoLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M791_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M793_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_25M792_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_25MM.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M788_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_30M789_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_30MM.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_Plans.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ALLExtendLAP_PROD.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Planning_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M789HEDP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M792HEI.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_Plan_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M789HEDP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M789HEDP_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M791_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792HEI.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792HEI_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M792_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ExtenLAP_PRODN_M793_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M788.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M789.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M788.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M789.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LapToRange_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M788.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M789.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M788.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M789.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAP_ToLogistics_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_LAPtoLogistics_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_Logistics_ToLAP_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan25MM.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_LOCK_Plan30MM.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M791_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M792_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_25M793SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M788_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ProductionPlanning_30M789_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_RangeToLAP_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M792.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.LOCKS.Form_Lock_ToLogisticstoLAP_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_login.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.Frm_Priv_user.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Login.frm_Users.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.About.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.ButtonsNames.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Add_Users.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsLogistics_ToLAP_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_AmmunitionsRange_ToLAP_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_BACKUP_Restor.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM789_HEDP_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_HEI_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM792_M793_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction25_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProduction30_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_DailyProdExtendM791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Damages_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_Modify.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ExtendedLAP_Planning_SHOW.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Machines_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Image.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_MAX.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Zero.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_MaterialType.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Material_Move_Show1.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials__Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionLinesMaterials_Charge.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Modify.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_ProductionPlanning_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_StorageLocations.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Units.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Main.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Mofify.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine_Show.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Magazine.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Warehouses.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.Properties.Resources.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.CurrentMaterils2.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Damages.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph25.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph30.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm789HEDP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_HEI.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Graph_ExtndLAPm792_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsAmmuntions.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.LogisticsToLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Machn.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Magazine.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProdLinesMATR.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production25.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Production30.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.ProductionPlanning.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M789HEDP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M791.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792HEI.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_M792_M793.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Prod_ExtendedLAP_Planning.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeAmmuntions.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.RangeToLAP.resources
+C:\Users\mic\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.csproj.GenerateResource.Cache
+D:\برنامج التخطيط\ProductionPlanning\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+D:\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+D:\برنامج التخطيط\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Scrap_25MM.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Scrap_30MM.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Scrap_25MM_SHOW.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Scrap_30MM_SHOW.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Scrap25MM.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.REP.Scrap30MM.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_MTRMove.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_MTRMove_Image.resources
+C:\Users\MIC\Desktop\ProductionPlanning\ProductionPlanning\obj\Debug\ProductionPlanning.PL.Form_Documents_MTRMove_SHOW.resources
+C:\Users\qaysi\Desktop\برنامج التسويق\Marketing\ProductionPlanning\bin\Debug\ProductionPlanning.exe.config
+C:\Users\qaysi\Desktop\برنامج التسويق\Marketing\ProductionPlanning\obj\Debug\ProductionPlanning.exe
+C:\Users\qaysi\Desktop\برنامج التسويق\Marketing\ProductionPlanning\obj\Debug\ProductionPlanning.pdb
